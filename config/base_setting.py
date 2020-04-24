@@ -2,3 +2,6 @@
 SERVER_PORT = 8999
 SQLALCHEMY_DATABASE_URI = 'mysql://ljw:950920@127.0.0.1/hmsx_db?charset=uft8'
 SQLALCHEMY_TRACK_MODIFICATIONS = False
+
+# cookie
+AUTH_COOKIE_NAME = '1903_hmsx'
